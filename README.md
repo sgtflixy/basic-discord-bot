@@ -27,11 +27,13 @@ Includes moderation tools and a few fun commands!
 
 ### 1. Clone the repo
 
-```git clone https://github.com/yourusername/yourbot.git
-cd yourbot```
+```
+git clone https://github.com/sgtflixy/basic-discord-bot.git
+cd basic-discord-bot
+```
 
 ### 2. Install dependencies
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ### 3. Set up your bot token
 
@@ -39,6 +41,8 @@ Replace `BOT_TOKEN` in `bot.py` with your actual token,
 or use environment variables for safer deployment (do this yourself lol)
 
 ## 📦 Requirements
-`Python 3.8+`
-`py-cord==2.4.1`
+```
+Python 3.8+
+py-cord==2.4.1
+```
 See `requirements.txt` for details.

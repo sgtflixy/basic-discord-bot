@@ -27,8 +27,8 @@ Includes moderation tools and a few fun commands!
 
 ### 1. Clone the repo
 
-`git clone https://github.com/yourusername/yourbot.git
-cd yourbot`
+```git clone https://github.com/yourusername/yourbot.git
+cd yourbot```
 
 ### 2. Install dependencies
 `pip install -r requirements.txt`

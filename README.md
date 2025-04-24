@@ -46,3 +46,12 @@ Python 3.8+
 py-cord==2.4.1
 ```
 See `requirements.txt` for details.
+
+## 🔒 Permissions
+
+This bot uses role-based permissions to ensure only users with the right Discord permissions can run moderation commands like ban, kick, and clear.
+## 📄 License
+
+MIT License — feel free to fork, edit, and build on it.
+Credit appreciated if you use parts of this project.
+
